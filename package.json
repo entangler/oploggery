@@ -1,0 +1,33 @@
+{
+    "name": "Oploggery",
+    "version": "0.1.0",
+    "description": "A MongoDB oplog watcher for Node.js",
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/entangler/oploggery.git"
+    },
+    "keywords": [
+        "mongodb",
+        "oplog",
+        "watch",
+        "nodejs",
+        "javascript"
+    ],
+    "author": "Benjamin Kitt",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/entangler/oploggery/issues"
+    },
+    "homepage": "https://github.com/entangler/oploggery",
+    "dependencies": {
+        "mongodb": "^1.4.14"
+    }
+}
