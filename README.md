@@ -17,7 +17,7 @@ Many of the options are similar to Mongo Watch, but the connection options have 
 
 To install oploggery from npm, run: 
 
-> `npm install Oploggery`
+> `npm install oploggery`
 
 # Usage
 

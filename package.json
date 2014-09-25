@@ -1,6 +1,6 @@
 {
-    "name": "Oploggery",
-    "version": "0.1.0",
+    "name": "oploggery",
+    "version": "0.1.1",
     "description": "A MongoDB oplog watcher for Node.js",
     "main": "index.js",
     "directories": {
