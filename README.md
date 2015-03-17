@@ -1,6 +1,8 @@
 Oploggery
 =========
 
+[![Join the chat at https://gitter.im/entangler/oploggery](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/entangler/oploggery?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A MongoDB oplog watcher for Node.js, part of the entangler.js project.
 
 `client` allows you to pass an already connected MongoClient instance from the [MongoDB Node.js native driver](https://github.com/mongodb/node-mongodb-native) (see [MongoClient()](http://mongodb.github.io/node-mongodb-native/api-generated/mongoclient.html).)
